@@ -1,0 +1,4 @@
+# 全文本仓库：入库统一 LF，检出按平台配置
+* text=auto
+*.md text
+*.R text

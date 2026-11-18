@@ -1,0 +1,26 @@
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Office temp files
+~$*
+
+# R session droppings（本仓库纯 markdown；防将来本地试验混入）
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local scratch
+.tmp-*/
+*.tmp
